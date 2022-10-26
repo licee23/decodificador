@@ -13,7 +13,7 @@
 
 - ✅ **Botão** para Codificar ou Decodificar Mensagem
 
-## Linguagens Utilizadas.
+## Linguagens Utilizadas
 
 - 🟧 **HTML** 
 - 🟦 **CSS** 
