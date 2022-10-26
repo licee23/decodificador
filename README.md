@@ -19,7 +19,4 @@
 - [ ] **CSS** 
 - [ ] **JAVASCRIPT**
 
-## Demo
-
-Acesso o projeto [aqui]
 
